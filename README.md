@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![ThiagoMattos GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoMattos&show_icons=true&theme=radical)
+![ThiagoMattos GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoMattos&show_icons=true&theme=gradient)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
