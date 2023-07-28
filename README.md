@@ -1,7 +1,7 @@
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ThiagoMattos19&show_icons=true&theme=gradient"
-    media="(prefers-color-scheme: gradient)"
+    srcset="https://github-readme-stats.vercel.app/api?username=ThiagoMattos19&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ThiagoMattos19&show_icons=true"
