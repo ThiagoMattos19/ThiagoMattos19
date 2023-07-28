@@ -1,6 +1,7 @@
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ThiagoMattos19&show_icons=true&theme=dark"         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark)
+    srcset="https://github-readme-stats.vercel.app/api?username=ThiagoMattos19&show_icons=true&theme=dark"         
+    username=anuraghazra&hide_progress=true&theme=dark)
     media="(prefers-color-scheme: dark)"
   />
   <source
