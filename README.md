@@ -6,7 +6,7 @@
  <a  href="https://www.linkedin.com/in/thiago-mattos-da-silva-76b6b3266/" target="_blank"  rel="noreferrer noopener"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a><a  href="https://www.instagram.com/tmattos.s/"  target="_blank"  rel="noreferrer noopener"><img src="https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
  </p>
  </header>
- 
+ <div align=center>
  <picture>
    <source
      srcset="https://github-readme-stats.vercel.app/api?username=ThiagoMattos19&show_icons=true&theme=dark"         
@@ -19,11 +19,11 @@
    />
    <img src="https://github-readme-stats.vercel.app/api?username=ThiagoMattos19&show_icons=true" />
  </picture>
- 
+     <picture><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/732fa48c8e1cfa4d1ea5b5e20403eb6222cab3d0bc3429e5db62594d0dcf49b9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a75753231266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d64726163756c61"><img height="150em" src="https://camo.githubusercontent.com/732fa48c8e1cfa4d1ea5b5e20403eb6222cab3d0bc3429e5db62594d0dcf49b9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a75753231266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d64726163756c61" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMattos19&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;"><img height="150em" src="https://camo.githubusercontent.com/732fa48c8e1cfa4d1ea5b5e20403eb6222cab3d0bc3429e5db62594d0dcf49b9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a75753231266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d64726163756c61" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMattos19&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
+     </a>
+     </picture>
+ </div>
  <footer>
-   
- 
- 
  <h2> languages ​​that I use </h2>
  <p>
    <img src="https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="linguagem HTML">
