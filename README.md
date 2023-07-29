@@ -5,10 +5,10 @@
     <h2> My Social Medias 🌐 </h2>
 </header>
 
-![Thiago Mattos Da Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoMattos19&show=reviewst&theme=tokyonight)
 
+
+![Thiago Mattos Da Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoMattos19&show=reviewst&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMattos19&layout=compact&theme=tokyonight)
-
 
 
  <div>
