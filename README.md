@@ -19,9 +19,6 @@
    />
    <img src="https://github-readme-stats.vercel.app/api?username=ThiagoMattos19&show_icons=true" />
  </picture>
-     <picture><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/732fa48c8e1cfa4d1ea5b5e20403eb6222cab3d0bc3429e5db62594d0dcf49b9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a75753231266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d64726163756c61"><img height="150em" src="https://camo.githubusercontent.com/732fa48c8e1cfa4d1ea5b5e20403eb6222cab3d0bc3429e5db62594d0dcf49b9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a75753231266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d64726163756c61" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMattos19&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;"><img height="150em" src="https://camo.githubusercontent.com/732fa48c8e1cfa4d1ea5b5e20403eb6222cab3d0bc3429e5db62594d0dcf49b9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a75753231266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d64726163756c61" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMattos19&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
-     </a>
-     </picture>
  </div>
  <footer>
  <h2> languages ​​that I use </h2>
