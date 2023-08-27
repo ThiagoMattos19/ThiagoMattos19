@@ -1,7 +1,7 @@
 
 <header>
     <h1> Hello, I am Thiago Mattos 😄 </h1>
-    <h3>I'm an IT student starting now in programming with a focus on the back-end, I'm studying Systems development & analysis, I have experience with computers since I was 10 years old, the language I'm studying at the moment is python, SQL and google cloud. </h3>
+    <h3>I'm an IT student starting now in programming with a focus on the back-end, I'm studying Systems development & analysis, I have experience with computers since I was 10 years old, the language I'm studying at the moment is python, SQL and Google Cloud. </h3>
     <h2> My Social Medias 🌐 </h2>
     <a href="https://www.linkedin.com/in/thiagomattosdasilva/" target="_blank"><img alt="linkedin profile" src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/>
     <a href="https://www.instagram.com/tmattos.s/" target="_blank"><img alt="instagram profile" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
